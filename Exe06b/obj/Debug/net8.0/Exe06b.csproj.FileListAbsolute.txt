@@ -1,0 +1,14 @@
+C:\luan\ListaExercicio\Exe06b\bin\Debug\net8.0\Exe06b.exe
+C:\luan\ListaExercicio\Exe06b\bin\Debug\net8.0\Exe06b.deps.json
+C:\luan\ListaExercicio\Exe06b\bin\Debug\net8.0\Exe06b.runtimeconfig.json
+C:\luan\ListaExercicio\Exe06b\bin\Debug\net8.0\Exe06b.dll
+C:\luan\ListaExercicio\Exe06b\bin\Debug\net8.0\Exe06b.pdb
+C:\luan\ListaExercicio\Exe06b\obj\Debug\net8.0\Exe06b.GeneratedMSBuildEditorConfig.editorconfig
+C:\luan\ListaExercicio\Exe06b\obj\Debug\net8.0\Exe06b.AssemblyInfoInputs.cache
+C:\luan\ListaExercicio\Exe06b\obj\Debug\net8.0\Exe06b.AssemblyInfo.cs
+C:\luan\ListaExercicio\Exe06b\obj\Debug\net8.0\Exe06b.csproj.CoreCompileInputs.cache
+C:\luan\ListaExercicio\Exe06b\obj\Debug\net8.0\Exe06b.dll
+C:\luan\ListaExercicio\Exe06b\obj\Debug\net8.0\refint\Exe06b.dll
+C:\luan\ListaExercicio\Exe06b\obj\Debug\net8.0\Exe06b.pdb
+C:\luan\ListaExercicio\Exe06b\obj\Debug\net8.0\Exe06b.genruntimeconfig.cache
+C:\luan\ListaExercicio\Exe06b\obj\Debug\net8.0\ref\Exe06b.dll
