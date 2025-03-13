@@ -12,3 +12,4 @@ C:\luan\ListaExercicio\Exe06b\obj\Debug\net8.0\refint\Exe06b.dll
 C:\luan\ListaExercicio\Exe06b\obj\Debug\net8.0\Exe06b.pdb
 C:\luan\ListaExercicio\Exe06b\obj\Debug\net8.0\Exe06b.genruntimeconfig.cache
 C:\luan\ListaExercicio\Exe06b\obj\Debug\net8.0\ref\Exe06b.dll
+C:\luan\ListaExercicio\Exe06b\obj\Debug\net8.0\Exe06b.sourcelink.json
