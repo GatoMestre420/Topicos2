@@ -1,0 +1,15 @@
+C:\luan\ListaExercicio\Exteste3\bin\Debug\net8.0\Exteste3.exe
+C:\luan\ListaExercicio\Exteste3\bin\Debug\net8.0\Exteste3.deps.json
+C:\luan\ListaExercicio\Exteste3\bin\Debug\net8.0\Exteste3.runtimeconfig.json
+C:\luan\ListaExercicio\Exteste3\bin\Debug\net8.0\Exteste3.dll
+C:\luan\ListaExercicio\Exteste3\bin\Debug\net8.0\Exteste3.pdb
+C:\luan\ListaExercicio\Exteste3\obj\Debug\net8.0\Exteste3.GeneratedMSBuildEditorConfig.editorconfig
+C:\luan\ListaExercicio\Exteste3\obj\Debug\net8.0\Exteste3.AssemblyInfoInputs.cache
+C:\luan\ListaExercicio\Exteste3\obj\Debug\net8.0\Exteste3.AssemblyInfo.cs
+C:\luan\ListaExercicio\Exteste3\obj\Debug\net8.0\Exteste3.csproj.CoreCompileInputs.cache
+C:\luan\ListaExercicio\Exteste3\obj\Debug\net8.0\Exteste3.sourcelink.json
+C:\luan\ListaExercicio\Exteste3\obj\Debug\net8.0\Exteste3.dll
+C:\luan\ListaExercicio\Exteste3\obj\Debug\net8.0\refint\Exteste3.dll
+C:\luan\ListaExercicio\Exteste3\obj\Debug\net8.0\Exteste3.pdb
+C:\luan\ListaExercicio\Exteste3\obj\Debug\net8.0\Exteste3.genruntimeconfig.cache
+C:\luan\ListaExercicio\Exteste3\obj\Debug\net8.0\ref\Exteste3.dll

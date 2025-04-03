@@ -42,17 +42,18 @@ for(int i = 0; i < n - 1; i ++  ){
             vetor[j] = vetor[j + 1];
             vetor[j + 1] = temp;
         }
+        Console.WriteLine(n + " " + i );
 
     }
 
 }
 
-Console.WriteLine("\n");
-Console.Write("Vetor depois da ordenação: \n");
-//EXIBIR OS VALORES ORDENADOS
-for(int i = 0; i < vetor.Length; i++){
-    Console.Write(vetor[i] + " ");
-}   
+// Console.WriteLine("\n");
+// Console.Write("Vetor depois da ordenação: \n");
+// //EXIBIR OS VALORES ORDENADOS
+// for(int i = 0; i < vetor.Length; i++){
+//     Console.Write(vetor[i] + " ");
+// }   
 
 
 
